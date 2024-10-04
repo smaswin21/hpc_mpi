@@ -1,0 +1,6 @@
+Resultant Matrix C:
+14 32 
+32 77 
+50 122 
+
+Time taken for computation: 0.000078 seconds
